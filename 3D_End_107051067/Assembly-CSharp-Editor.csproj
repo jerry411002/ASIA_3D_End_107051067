@@ -277,7 +277,7 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>D:/ASIA_3D_End_107051067 - 複製 (2)/3D_End_107051067/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>D:/Unity/2019.4.11f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -640,37 +640,37 @@
       <HintPath>D:/Unity/2019.4.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>D:/ASIA_3D_End_107051067 - 複製 (2)/3D_End_107051067/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>D:/ASIA_3D_End_107051067 - 複製 (2)/3D_End_107051067/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/ASIA_3D_End_107051067 - 複製 (2)/3D_End_107051067/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/ASIA_3D_End_107051067 - 複製 (2)/3D_End_107051067/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/ASIA_3D_End_107051067 - 複製 (2)/3D_End_107051067/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/ASIA_3D_End_107051067 - 複製 (2)/3D_End_107051067/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/ASIA_3D_End_107051067 - 複製 (2)/3D_End_107051067/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/ASIA_3D_End_107051067 - 複製 (2)/3D_End_107051067/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/ASIA_3D_End_107051067 - 複製 (2)/3D_End_107051067/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/ASIA_3D_End_107051067 - 複製 (2)/3D_End_107051067/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/ASIA_3D_End_107051067 - 複製 (2)/3D_End_107051067/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
