@@ -116,7 +116,7 @@ public class Enemy : MonoBehaviour
     {
         nav.isStopped = true;               // 關閉 導覽器
         enabled = false;                    // 關閉腳本
-        ani.SetBool("死亡", true);       // 死亡動畫
+        ani.SetBool("死亡",true);       // 死亡動畫
     }
 
     /// <summary>

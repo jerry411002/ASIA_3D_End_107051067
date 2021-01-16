@@ -19,8 +19,8 @@ public class NPC : MonoBehaviour
 
     public enum NPCState
     {
-        FirstDialog, Missioning, Finish
-    }
+        FirstDialog, Missioning, Finish, Ending
+   }
 
     public NPCState state = NPCState.FirstDialog;
 
@@ -66,6 +66,10 @@ public class NPC : MonoBehaviour
             case NPCState.Finish:
                 dialogString = Data.dialougC;
                 break;
+            case NPCState.Ending:
+                dialogString = Data.dialougD;
+                break;
+
         }
 
         for (int i = 0; i < dialogString.Length; i++)
