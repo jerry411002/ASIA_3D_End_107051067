@@ -629,31 +629,31 @@
       <HintPath>D:/Unity/2019.4.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_107051067/3D_End_107051067/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_107051067/3D_End_107051067/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_107051067/3D_End_107051067/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_107051067/3D_End_107051067/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_107051067/3D_End_107051067/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_107051067/3D_End_107051067/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_107051067/3D_End_107051067/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_107051067/3D_End_107051067/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/ASIA_3D_End_1070510671/3D_End_107051067/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/ASIA_3D_End_107051067/3D_End_107051067/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
