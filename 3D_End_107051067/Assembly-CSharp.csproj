@@ -73,6 +73,8 @@
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\Generic\Utils\vExtensions.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\Generic\Utils\vPickupItem.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
+    <Compile Include="Assets\Scripts\LevelManager.cs" />
+    <Compile Include="Assets\Scripts\MenuManger.cs" />
     <Compile Include="Assets\Scripts\NPC.cs" />
     <Compile Include="Assets\Scripts\NPC1 Data.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
@@ -85,6 +87,7 @@
     <None Include="Assets\素材\Free Low Poly Desert Pack\Materials\Shaders\Vertex_Color_Basic.shader" />
     <None Include="Assets\Invector-3rdPersonController_LITE\README_Basic.txt" />
     <None Include="Assets\素材\角色\牛阿\BOSS\Bull\Shader\Cartoon.shader" />
+    <None Include="Assets\素材\setofont\readme.txt" />
     <Reference Include="UnityEngine">
       <HintPath>D:/Unity/2019.4.11f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
