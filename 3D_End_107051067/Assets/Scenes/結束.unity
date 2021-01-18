@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 342734617}
   - component: {fileID: 342734616}
   m_Layer: 5
-  m_Name: "\u958B\u59CB\u904A\u6232"
+  m_Name: "\u8FD4\u56DE\u9078\u55AE"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -204,7 +204,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 978002245}
-        m_MethodName: StartGame
+        m_MethodName: BackToMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -334,7 +334,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 978002245}
-        m_MethodName: EndGame
+        m_MethodName: Quit
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -470,7 +470,7 @@ GameObject:
   - component: {fileID: 978002244}
   - component: {fileID: 978002245}
   m_Layer: 0
-  m_Name: "\u9078\u55AE\u7BA1\u7406\u5668"
+  m_Name: "\u95DC\u5361\u7BA1\u7406\u5668"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -499,7 +499,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 978002243}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 408605cbb909cba45aa3c1b999099f10, type: 3}
+  m_Script: {fileID: 11500000, guid: e3b289f33867d8147b10710470fb50e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1118316259
@@ -571,7 +571,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u958B\u59CB\u904A\u6232"
+  m_Text: "\u8FD4\u56DE\u9078\u55AE"
 --- !u!222 &1118316262
 CanvasRenderer:
   m_ObjectHideFlags: 0
